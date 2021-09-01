@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Resources for Learning Data Science
 
-You can use the [editor on GitHub](https://github.com/AndreaY-BDA/AndreaY-BDA.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Recommended Data Set
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A Data Set from the [awesome-datascience](https://github.com/academic/awesome-datascience) GitHub "Data Sets" list that interested me was the [Heart failure clinical records Data set](http://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records) from the UC Irvince Machine Learning Repository.
 
-### Markdown
+The data set consists of medical records from patients who had heart failure, that were collected during their follow-up period. Attributes collected from these medical records can help identify patterns and correlations associated with heart failure. By identifying the most significant features or characteristics associated with heart failure one can target patients with similar traits and try to address these health issues early on.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Data Science book
 
-# Header 1
-## Header 2
-### Header 3
+[R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://r4ds.had.co.nz) by Hadley Wickham and Garret Grolemund is a book listed on the [free-data-science-book](https://github.com/chaconnewu/free-data-science-books) GitHub that interested me.
 
-- Bulleted
-- List
+R is a very important programming language in the field of data science due to it's emphasis in statistical computing, and crucial to learn as a Big Data Analytics student. What interests me the most about this book is that is teaches you how to analyze data in R from a beginner level.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndreaY-BDA/AndreaY-BDA.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
